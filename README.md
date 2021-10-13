@@ -1,24 +1,27 @@
-<center><h1>Point Transformer</h1> 
-</center>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer/3d-part-segmentation-on-shapenet-part)](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part?p=point-transformer) 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=point-transformer)
+<h1 align="center">Point Transformer</h1> 
 
 
-<center><h2>Nico Engel &#8226; Vasileios Belagiannis &#8226; Klaus Dietmayer</h2></center> 
+<div align="center">
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" align="center"> <br />
+<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer/3d-part-segmentation-on-shapenet-part" align="center"> <br />
+<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer/3d-point-cloud-classification-on-modelnet40" align="center">
+ 
+</div>
 
-Institute of Measurement, Control and Microtechnology   
-Ulm University, Germany
-<center>
+<h2 align="center">Nico Engel &#8226; Vasileios Belagiannis &#8226; Klaus Dietmayer</h2>
+
+<p align="center">Institute of Measurement, Control and Microtechnology</p>
+<p align="center">Ulm University, Germany</p>
+
+  <p align="center">
 <img src="docs/cover.png" height="550px">
-
+  </p>
+  
+<div align="center">
+  
 [[PDF](https://ieeexplore.ieee.org/document/9552005)] [[PapersWithCode](https://paperswithcode.com/paper/point-transformer)] [[Arxiv](https://arxiv.org/abs/2011.00931)]
 
-</center>
-
-<br/>
+</div>
 
 ---
 
@@ -29,9 +32,9 @@ Ulm University, Germany
 In this work, we present Point Transformer, a deep neural network that operates directly on unordered and unstructured point sets. We design Point Transformer to extract local and global features and relate both representations by introducing the local-global attention mechanism, which aims to capture spatial point relations and shape information. For that purpose, we propose SortNet, as part of the Point Transformer, which induces input permutation invariance by selecting points based on a learned score. The output of Point Transformer is a sorted and permutation invariant feature list that can directly be incorporated into common computer vision applications. We evaluate our approach on standard classification and part segmentation benchmarks to demonstrate competitive results compared to the prior work.
 <br/>
 
-<center>
+<div align="center">
 <img src="docs/network.png" height="300px">
-</center>
+</div>
 
 ---
 
