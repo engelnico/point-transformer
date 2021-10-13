@@ -14,7 +14,7 @@ Ulm University, Germany
 <center>
 <img src="docs/cover.png" height="550px">
 
-[[PDF](https://ieeexplore.ieee.org/document/9552005)] [[PapersWithCode](https://paperswithcode.com/paper/point-transformer)]
+[[PDF](https://ieeexplore.ieee.org/document/9552005)] [[PapersWithCode](https://paperswithcode.com/paper/point-transformer)] [[Arxiv](https://arxiv.org/abs/2011.00931)]
 
 </center>
 
