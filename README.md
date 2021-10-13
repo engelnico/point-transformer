@@ -1,4 +1,7 @@
-<center><h1>Point Transformer</h1></center>
+<center><h1>Point Transformer</h1> 
+</center>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer/3d-part-segmentation-on-shapenet-part)](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part?p=point-transformer) 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=point-transformer)
@@ -11,7 +14,7 @@ Ulm University, Germany
 <center>
 <img src="docs/cover.png" height="550px">
 
-[[PDF (Open Access)](https://ieeexplore.ieee.org/document/9552005)][[PapersWithCode](https://paperswithcode.com/paper/point-transformer)]
+[[PDF](https://ieeexplore.ieee.org/document/9552005)] [[PapersWithCode](https://paperswithcode.com/paper/point-transformer)]
 
 </center>
 
