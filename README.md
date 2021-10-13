@@ -1,13 +1,17 @@
 <center><h1>Point Transformer</h1></center>
 
-<center><h2>Nico Engel &#8226; Vasileios Belagiannis &#8226; Klaus Dietmayer</h2></center>
-<center>Institute of Measurement, Control and Microtechnology</center>
-<center>Ulm University, Germany</center>
-<br/>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer/3d-part-segmentation-on-shapenet-part)](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part?p=point-transformer) 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=point-transformer)
+
+
+<center><h2>Nico Engel &#8226; Vasileios Belagiannis &#8226; Klaus Dietmayer</h2></center> 
+
+Institute of Measurement, Control and Microtechnology   
+Ulm University, Germany
 <center>
 <img src="docs/cover.png" height="550px">
 
-[[PDF (Open Access)](https://ieeexplore.ieee.org/document/9552005)]
+[[PDF (Open Access)](https://ieeexplore.ieee.org/document/9552005)][[PapersWithCode](https://paperswithcode.com/paper/point-transformer)]
 
 </center>
 
@@ -28,7 +32,7 @@ In this work, we present Point Transformer, a deep neural network that operates 
 
 ---
 
-> **Please note, that we are currerntly working to optimize the code. Therefore, expect code changes to happen in the future**
+> **Please note, that we are currerntly working to optimize the code. Therefore, expect code changes to happen in the future.**
 
 ## 1) Prerequisites
 
