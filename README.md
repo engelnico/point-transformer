@@ -24,6 +24,9 @@
 </div>
 
 ---
+**Note: We are currently updating this repository to reflect the results reported in our paper, as well as performance optimizations using state-of-the-art transformer variants**
+
+---
 
 <center>
 <h2>Abstract</h2>
